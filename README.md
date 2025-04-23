@@ -6,6 +6,7 @@ How can researchers make their scholarship engaging and accessible for non-speci
 
 ## In this repository
 - Workshop slides from [2025](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_DigitalStorytelling.pdf)
+- [Worksheet](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_DigitalStorytellingWorksheet.pdf) to help you spell out your needs, wants, and priorities in planning your digital storytelling project
 - Zine based on the workshop in digital and printable mini zine format. (Hint: print on one piece of paper, then [fold like this](https://www.42ndstreet.org.uk/media/etdlxppk/zine-guide-colour.jpg))
 
 ## Rights & reuse
