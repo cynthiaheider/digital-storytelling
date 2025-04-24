@@ -7,7 +7,7 @@ How can researchers make their scholarship engaging and accessible for non-speci
 ## In this repository
 - Workshop slides from [2025](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_DigitalStorytelling.pdf)
 - [Worksheet](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_DigitalStorytellingWorksheet.pdf) to help you spell out your needs, wants, and priorities in planning your digital storytelling project
-- Zine based on the workshop in [digital](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_Zine-DigitalStorytelling.pdf) and [printable quarter-page zine](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_Zine-Printable-DigitalStorytelling.pdf) format. (Hint: print single or double-sided, then [cut and/or fold like this](https://goofygeekentertainment.itch.io/how-to-make-a-quarter-size-zine))
+- Zine based on the workshop in [digital](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_Zine-DigitalStorytelling.pdf) and printable [single-sided](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_Zine-Printable-SingleSided-DigitalStorytelling.pdf) or [double-sided](https://github.com/cynthiaheider/digital-storytelling/blob/main/Spring2025_Zine-Printable-DoubleSided-DigitalStorytelling.pdf) quarter-page zine format. (Hint: print in your preferred format, then [cut and/or fold like this](https://goofygeekentertainment.itch.io/how-to-make-a-quarter-size-zine))
 
 ## Rights & reuse
 Feel free to reuse contents of this repository under the terms of [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
